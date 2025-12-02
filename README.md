@@ -2,7 +2,7 @@
 
 ### CTO & Estrategista de Tecnologia | Venture Builder
 
-Com mais de **10 anos de experiência**, minha trajetória evoluiu do desenvolvimento *hands-on* para a liderança estratégica. Atuo na intersecção entre tecnologia, negócios e inovação, transformando ideias em produtos escaláveis e times de alta performance.
+Com mais de **10 anos de experiência**, atuo na intersecção entre tecnologia, negócios e inovação. Minha missão é transformar ideias complexas em arquiteturas escaláveis, produtos digitais de alto impacto e times de alta performance.
 
 ---
 
@@ -10,19 +10,29 @@ Com mais de **10 anos de experiência**, minha trajetória evoluiu do desenvolvi
 
 #### 🏗️ Startups & Produtos (Sócio & CTO)
 
-🐶 **[Cãomigo](https://caomigo.com.br)** (Pet Tech • Turismo • Experiências)
-> Lidero a estratégia e o desenvolvimento da plataforma que conecta famílias multiespécie a experiências e destinos pet friendly seguros.
+### 🐶 [Cãomigo](https://caomigo.com.br)
+`Pet Tech` `Turismo` `Experiências`
 
-🌾 **[Findrs](https://findrs.com.br)** (Agrotech • IoT • Visão Computacional)
-> Arquiteto soluções de ponta utilizando IoT e Visão Computacional para resolver problemas críticos de rastreabilidade e qualidade no agronegócio.
+Lidero a estratégia e o desenvolvimento da plataforma que conecta famílias multiespécie a experiências e destinos pet friendly seguros. Traduzo a operação de turismo em um ecossistema digital unificado.
+
+### 🌾 [Findrs](https://findrs.com.br)
+`Agrotech` `IoT` `Visão Computacional`
+
+Arquiteto soluções de ponta que utilizam Internet das Coisas e Visão Computacional para resolver problemas críticos de rastreabilidade, qualidade e detecção de contaminantes no agronegócio.
+
+<br>
 
 #### 🤝 Serviços & Ecossistema
 
-💻 **Nee** (Founder • Software House & Team Building)
-> Uma proposta diferenciada de desenvolvimento: entregamos o MVP do cliente enquanto treinamos a equipe interna dele. Não entregamos apenas o código, mas a cultura técnica e a autonomia.
+### 💻 Nee
+`Software House` `Team Building` `Founder`
 
-💡 **[Abstartups](https://abstartups.com.br)** (Mentor de Desenvolvimento e MVP)
-> Apoio startups do ecossistema brasileiro, oferecendo mentoria focada em validação técnica, arquitetura de MVP e boas práticas de desenvolvimento.
+Uma proposta diferenciada de desenvolvimento: **Build & Teach**. Entregamos o MVP do cliente enquanto treinamos a equipe interna dele. O cliente não recebe apenas o código, mas a autonomia técnica e a cultura de engenharia.
+
+### 💡 [Abstartups](https://abstartups.com.br)
+`Mentoria` `MVP` `Arquitetura`
+
+Atuo como mentor oficial, apoiando startups do ecossistema brasileiro na validação técnica, definição de arquitetura de MVP e boas práticas de desenvolvimento de software.
 
 ---
 
@@ -33,7 +43,7 @@ Minha abordagem é agnóstica à tecnologia, focando na ferramenta certa para o 
 * **Arquitetura:** Microsserviços, MVC, Hexagonal Architecture, Clean Code, SOLID.
 * **Backend:** PHP (Especialista em Laravel), Node.js, APIs REST/SOAP.
 * **Frontend & Mobile:** React, Angular, TypeScript, Desenvolvimento Híbrido e Nativo.
-* **Inovação:** Internet das Coisas (IoT), Visão Computacional (Agro), Integrações de Hardware.
+* **Inovação:** IoT, Visão Computacional (Agro), Integrações de Hardware.
 * **Infra & Dados:** MySQL, SQL, Gestão de Servidores Cloud.
 
 ---
